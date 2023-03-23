@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "assets": {
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "C:\\projects\\static\\dist\\favicon.ico",
+      "publicPath": "http://localhost:8080/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "C:\\projects\\static\\dist\\index.html",
+      "publicPath": "http://localhost:8080/index.html"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "C:\\projects\\static\\dist\\js\\app.js",
+      "publicPath": "http://localhost:8080/js/app.js"
+    },
+    "js/chunk-vendors.js": {
+      "name": "js/chunk-vendors.js",
+      "path": "C:\\projects\\static\\dist\\js\\chunk-vendors.js",
+      "publicPath": "http://localhost:8080/js/chunk-vendors.js"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/chunk-vendors.js",
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://localhost:8080/"
+}
