@@ -1,32 +1,125 @@
 {
   "status": "done",
   "assets": {
+    "app.28cfcdab13266b79.hot-update.js": {
+      "name": "app.28cfcdab13266b79.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.28cfcdab13266b79.hot-update.js",
+      "publicPath": "http://localhost:8080/app.28cfcdab13266b79.hot-update.js"
+    },
+    "app.28cfcdab13266b79.hot-update.json": {
+      "name": "app.28cfcdab13266b79.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.28cfcdab13266b79.hot-update.json",
+      "publicPath": "http://localhost:8080/app.28cfcdab13266b79.hot-update.json"
+    },
+    "app.44497f65e620a9a4.hot-update.js": {
+      "name": "app.44497f65e620a9a4.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.44497f65e620a9a4.hot-update.js",
+      "publicPath": "http://localhost:8080/app.44497f65e620a9a4.hot-update.js"
+    },
+    "app.44497f65e620a9a4.hot-update.json": {
+      "name": "app.44497f65e620a9a4.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.44497f65e620a9a4.hot-update.json",
+      "publicPath": "http://localhost:8080/app.44497f65e620a9a4.hot-update.json"
+    },
+    "app.560bcf179c06cc66.hot-update.js": {
+      "name": "app.560bcf179c06cc66.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.560bcf179c06cc66.hot-update.js",
+      "publicPath": "http://localhost:8080/app.560bcf179c06cc66.hot-update.js"
+    },
+    "app.560bcf179c06cc66.hot-update.json": {
+      "name": "app.560bcf179c06cc66.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.560bcf179c06cc66.hot-update.json",
+      "publicPath": "http://localhost:8080/app.560bcf179c06cc66.hot-update.json"
+    },
+    "app.a2ede49e74cc97fa.hot-update.js": {
+      "name": "app.a2ede49e74cc97fa.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.a2ede49e74cc97fa.hot-update.js",
+      "publicPath": "http://localhost:8080/app.a2ede49e74cc97fa.hot-update.js"
+    },
+    "app.a2ede49e74cc97fa.hot-update.json": {
+      "name": "app.a2ede49e74cc97fa.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.a2ede49e74cc97fa.hot-update.json",
+      "publicPath": "http://localhost:8080/app.a2ede49e74cc97fa.hot-update.json"
+    },
+    "app.a65150880ba10e0b.hot-update.js": {
+      "name": "app.a65150880ba10e0b.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.a65150880ba10e0b.hot-update.js",
+      "publicPath": "http://localhost:8080/app.a65150880ba10e0b.hot-update.js"
+    },
+    "app.a65150880ba10e0b.hot-update.json": {
+      "name": "app.a65150880ba10e0b.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.a65150880ba10e0b.hot-update.json",
+      "publicPath": "http://localhost:8080/app.a65150880ba10e0b.hot-update.json"
+    },
+    "app.b02200078b088c26.hot-update.js": {
+      "name": "app.b02200078b088c26.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.b02200078b088c26.hot-update.js",
+      "publicPath": "http://localhost:8080/app.b02200078b088c26.hot-update.js"
+    },
+    "app.b02200078b088c26.hot-update.json": {
+      "name": "app.b02200078b088c26.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.b02200078b088c26.hot-update.json",
+      "publicPath": "http://localhost:8080/app.b02200078b088c26.hot-update.json"
+    },
+    "app.b1a787a8e349c2e0.hot-update.js": {
+      "name": "app.b1a787a8e349c2e0.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.b1a787a8e349c2e0.hot-update.js",
+      "publicPath": "http://localhost:8080/app.b1a787a8e349c2e0.hot-update.js"
+    },
+    "app.b1a787a8e349c2e0.hot-update.json": {
+      "name": "app.b1a787a8e349c2e0.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.b1a787a8e349c2e0.hot-update.json",
+      "publicPath": "http://localhost:8080/app.b1a787a8e349c2e0.hot-update.json"
+    },
+    "app.d340170464cf0008.hot-update.js": {
+      "name": "app.d340170464cf0008.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.d340170464cf0008.hot-update.js",
+      "publicPath": "http://localhost:8080/app.d340170464cf0008.hot-update.js"
+    },
+    "app.d340170464cf0008.hot-update.json": {
+      "name": "app.d340170464cf0008.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.d340170464cf0008.hot-update.json",
+      "publicPath": "http://localhost:8080/app.d340170464cf0008.hot-update.json"
+    },
+    "chunk-vendors.560bcf179c06cc66.hot-update.js": {
+      "name": "chunk-vendors.560bcf179c06cc66.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\chunk-vendors.560bcf179c06cc66.hot-update.js",
+      "publicPath": "http://localhost:8080/chunk-vendors.560bcf179c06cc66.hot-update.js"
+    },
+    "chunk-vendors.d340170464cf0008.hot-update.js": {
+      "name": "chunk-vendors.d340170464cf0008.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\chunk-vendors.d340170464cf0008.hot-update.js",
+      "publicPath": "http://localhost:8080/chunk-vendors.d340170464cf0008.hot-update.js"
+    },
     "favicon.ico": {
       "name": "favicon.ico",
-      "path": "C:\\projects\\static\\dist\\favicon.ico",
+      "path": "C:\\CEcapstone\\static\\dist\\favicon.ico",
       "publicPath": "http://localhost:8080/favicon.ico"
     },
     "index.html": {
       "name": "index.html",
-      "path": "C:\\projects\\static\\dist\\index.html",
+      "path": "C:\\CEcapstone\\static\\dist\\index.html",
       "publicPath": "http://localhost:8080/index.html"
     },
     "js/app.js": {
       "name": "js/app.js",
-      "path": "C:\\projects\\static\\dist\\js\\app.js",
+      "path": "C:\\CEcapstone\\static\\dist\\js\\app.js",
       "publicPath": "http://localhost:8080/js/app.js"
     },
     "js/chunk-vendors.js": {
       "name": "js/chunk-vendors.js",
-      "path": "C:\\projects\\static\\dist\\js\\chunk-vendors.js",
+      "path": "C:\\CEcapstone\\static\\dist\\js\\chunk-vendors.js",
       "publicPath": "http://localhost:8080/js/chunk-vendors.js"
     }
   },
   "chunks": {
     "app": [
       "js/chunk-vendors.js",
-      "js/app.js"
+      "js/app.js",
+      "app.44497f65e620a9a4.hot-update.js"
     ]
   },
-  "publicPath": "http://localhost:8080/"
+  "publicPath": "http://localhost:8080/",
+  "error": "ModuleError",
+  "message": "Module Error (from ./node_modules/vue-loader/dist/index.js):\nAt least one <template> or <script> is required in a single file component."
 }
