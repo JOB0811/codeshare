@@ -1,4 +1,4 @@
- {% load render_bundle from webpack_loader %}
+ <!-- {% load render_bundle from webpack_loader %} -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +9,7 @@
     <title><%= htmlWebpackPlugin.options.title %></title>
 
     <!-- 카메라 모듈 스크립트 -->
-    <script>
+    <!-- <script>
       $(document).ready(function(){
         if (!('url' in window) && ('webkitURL' in window)) {
             window.URL = window.webkitURL;
@@ -19,21 +19,21 @@
             $('#pic').attr('src', URL.createObjectURL(e.target.files[0]));
         });
     });
-    </script>
+    </script> -->
 
 
   </head>
   <body>
-    <a>Git test</a>
+    <!-- <a>Git test</a> -->
 
     <!-- 카메라 권한 획득 버튼-->
-    <label className="input-file-button" for="camera">사진찍기</label>
+    <!-- <label className="input-file-button" for="camera">사진찍기</label>
     <input type="file" style="display:none" id="camera" name="camera" capture="camera" accept="image/*" />
     <br/>
-    <img id="pic" style="width:100%;" />
+    <img id="pic" style="width:100%;" /> -->
     
     <div id="app"></div>
-    {% render_bundle 'app' %}
+    <!-- {% render_bundle 'app' %} -->
     <!-- built files will be auto injected -->
   </body>
 </html> 
