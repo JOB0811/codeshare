@@ -6,9 +6,16 @@ module.exports = defineConfig({
   outputDir: '../static/dist',
   indexPath: '../public/index.html',
   transpileDependencies: true,
+
   configureWebpack: {
     plugins: [
       new BundleTracker({ path: __dirname, filename: 'webpack-stats.json' }),
     ],
   },
+
+  pluginOptions: {
+    vuetify: {
+			// https://github.com/vuetifyjs/vuetify-loader/tree/next/packages/vuetify-loader
+		}
+  }
 })

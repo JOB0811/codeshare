@@ -1,100 +1,70 @@
 {
   "status": "done",
   "assets": {
-    "app.28cfcdab13266b79.hot-update.js": {
-      "name": "app.28cfcdab13266b79.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.28cfcdab13266b79.hot-update.js",
-      "publicPath": "http://localhost:8080/app.28cfcdab13266b79.hot-update.js"
+    "app.1998e97c083a44af.hot-update.js": {
+      "name": "app.1998e97c083a44af.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.1998e97c083a44af.hot-update.js",
+      "publicPath": "http://localhost:8080/app.1998e97c083a44af.hot-update.js"
     },
-    "app.28cfcdab13266b79.hot-update.json": {
-      "name": "app.28cfcdab13266b79.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.28cfcdab13266b79.hot-update.json",
-      "publicPath": "http://localhost:8080/app.28cfcdab13266b79.hot-update.json"
+    "app.1998e97c083a44af.hot-update.json": {
+      "name": "app.1998e97c083a44af.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.1998e97c083a44af.hot-update.json",
+      "publicPath": "http://localhost:8080/app.1998e97c083a44af.hot-update.json"
     },
-    "app.44497f65e620a9a4.hot-update.js": {
-      "name": "app.44497f65e620a9a4.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.44497f65e620a9a4.hot-update.js",
-      "publicPath": "http://localhost:8080/app.44497f65e620a9a4.hot-update.js"
+    "app.8c655ea51e9209c6.hot-update.js": {
+      "name": "app.8c655ea51e9209c6.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.8c655ea51e9209c6.hot-update.js",
+      "publicPath": "http://localhost:8080/app.8c655ea51e9209c6.hot-update.js"
     },
-    "app.44497f65e620a9a4.hot-update.json": {
-      "name": "app.44497f65e620a9a4.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.44497f65e620a9a4.hot-update.json",
-      "publicPath": "http://localhost:8080/app.44497f65e620a9a4.hot-update.json"
+    "app.8c655ea51e9209c6.hot-update.json": {
+      "name": "app.8c655ea51e9209c6.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.8c655ea51e9209c6.hot-update.json",
+      "publicPath": "http://localhost:8080/app.8c655ea51e9209c6.hot-update.json"
     },
-    "app.560bcf179c06cc66.hot-update.js": {
-      "name": "app.560bcf179c06cc66.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.560bcf179c06cc66.hot-update.js",
-      "publicPath": "http://localhost:8080/app.560bcf179c06cc66.hot-update.js"
+    "app.90cff75d8c0bd20d.hot-update.js": {
+      "name": "app.90cff75d8c0bd20d.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.90cff75d8c0bd20d.hot-update.js",
+      "publicPath": "http://localhost:8080/app.90cff75d8c0bd20d.hot-update.js"
     },
-    "app.560bcf179c06cc66.hot-update.json": {
-      "name": "app.560bcf179c06cc66.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.560bcf179c06cc66.hot-update.json",
-      "publicPath": "http://localhost:8080/app.560bcf179c06cc66.hot-update.json"
+    "app.90cff75d8c0bd20d.hot-update.json": {
+      "name": "app.90cff75d8c0bd20d.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.90cff75d8c0bd20d.hot-update.json",
+      "publicPath": "http://localhost:8080/app.90cff75d8c0bd20d.hot-update.json"
     },
-    "app.a2ede49e74cc97fa.hot-update.js": {
-      "name": "app.a2ede49e74cc97fa.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.a2ede49e74cc97fa.hot-update.js",
-      "publicPath": "http://localhost:8080/app.a2ede49e74cc97fa.hot-update.js"
+    "app.dffc96135351d1a7.hot-update.js": {
+      "name": "app.dffc96135351d1a7.hot-update.js",
+      "path": "C:\\CEcapstone\\static\\dist\\app.dffc96135351d1a7.hot-update.js",
+      "publicPath": "http://localhost:8080/app.dffc96135351d1a7.hot-update.js"
     },
-    "app.a2ede49e74cc97fa.hot-update.json": {
-      "name": "app.a2ede49e74cc97fa.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.a2ede49e74cc97fa.hot-update.json",
-      "publicPath": "http://localhost:8080/app.a2ede49e74cc97fa.hot-update.json"
-    },
-    "app.a65150880ba10e0b.hot-update.js": {
-      "name": "app.a65150880ba10e0b.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.a65150880ba10e0b.hot-update.js",
-      "publicPath": "http://localhost:8080/app.a65150880ba10e0b.hot-update.js"
-    },
-    "app.a65150880ba10e0b.hot-update.json": {
-      "name": "app.a65150880ba10e0b.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.a65150880ba10e0b.hot-update.json",
-      "publicPath": "http://localhost:8080/app.a65150880ba10e0b.hot-update.json"
-    },
-    "app.b02200078b088c26.hot-update.js": {
-      "name": "app.b02200078b088c26.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.b02200078b088c26.hot-update.js",
-      "publicPath": "http://localhost:8080/app.b02200078b088c26.hot-update.js"
-    },
-    "app.b02200078b088c26.hot-update.json": {
-      "name": "app.b02200078b088c26.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.b02200078b088c26.hot-update.json",
-      "publicPath": "http://localhost:8080/app.b02200078b088c26.hot-update.json"
-    },
-    "app.b1a787a8e349c2e0.hot-update.js": {
-      "name": "app.b1a787a8e349c2e0.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.b1a787a8e349c2e0.hot-update.js",
-      "publicPath": "http://localhost:8080/app.b1a787a8e349c2e0.hot-update.js"
-    },
-    "app.b1a787a8e349c2e0.hot-update.json": {
-      "name": "app.b1a787a8e349c2e0.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.b1a787a8e349c2e0.hot-update.json",
-      "publicPath": "http://localhost:8080/app.b1a787a8e349c2e0.hot-update.json"
-    },
-    "app.d340170464cf0008.hot-update.js": {
-      "name": "app.d340170464cf0008.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\app.d340170464cf0008.hot-update.js",
-      "publicPath": "http://localhost:8080/app.d340170464cf0008.hot-update.js"
-    },
-    "app.d340170464cf0008.hot-update.json": {
-      "name": "app.d340170464cf0008.hot-update.json",
-      "path": "C:\\CEcapstone\\static\\dist\\app.d340170464cf0008.hot-update.json",
-      "publicPath": "http://localhost:8080/app.d340170464cf0008.hot-update.json"
-    },
-    "chunk-vendors.560bcf179c06cc66.hot-update.js": {
-      "name": "chunk-vendors.560bcf179c06cc66.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\chunk-vendors.560bcf179c06cc66.hot-update.js",
-      "publicPath": "http://localhost:8080/chunk-vendors.560bcf179c06cc66.hot-update.js"
-    },
-    "chunk-vendors.d340170464cf0008.hot-update.js": {
-      "name": "chunk-vendors.d340170464cf0008.hot-update.js",
-      "path": "C:\\CEcapstone\\static\\dist\\chunk-vendors.d340170464cf0008.hot-update.js",
-      "publicPath": "http://localhost:8080/chunk-vendors.d340170464cf0008.hot-update.js"
+    "app.dffc96135351d1a7.hot-update.json": {
+      "name": "app.dffc96135351d1a7.hot-update.json",
+      "path": "C:\\CEcapstone\\static\\dist\\app.dffc96135351d1a7.hot-update.json",
+      "publicPath": "http://localhost:8080/app.dffc96135351d1a7.hot-update.json"
     },
     "favicon.ico": {
       "name": "favicon.ico",
       "path": "C:\\CEcapstone\\static\\dist\\favicon.ico",
       "publicPath": "http://localhost:8080/favicon.ico"
+    },
+    "fonts/materialdesignicons-webfont.21f691f0.ttf": {
+      "name": "fonts/materialdesignicons-webfont.21f691f0.ttf",
+      "path": "C:\\CEcapstone\\static\\dist\\fonts\\materialdesignicons-webfont.21f691f0.ttf",
+      "publicPath": "http://localhost:8080/fonts/materialdesignicons-webfont.21f691f0.ttf"
+    },
+    "fonts/materialdesignicons-webfont.54b0f60d.woff2": {
+      "name": "fonts/materialdesignicons-webfont.54b0f60d.woff2",
+      "path": "C:\\CEcapstone\\static\\dist\\fonts\\materialdesignicons-webfont.54b0f60d.woff2",
+      "publicPath": "http://localhost:8080/fonts/materialdesignicons-webfont.54b0f60d.woff2"
+    },
+    "fonts/materialdesignicons-webfont.5d875350.eot": {
+      "name": "fonts/materialdesignicons-webfont.5d875350.eot",
+      "path": "C:\\CEcapstone\\static\\dist\\fonts\\materialdesignicons-webfont.5d875350.eot",
+      "publicPath": "http://localhost:8080/fonts/materialdesignicons-webfont.5d875350.eot"
+    },
+    "fonts/materialdesignicons-webfont.d671cbf6.woff": {
+      "name": "fonts/materialdesignicons-webfont.d671cbf6.woff",
+      "path": "C:\\CEcapstone\\static\\dist\\fonts\\materialdesignicons-webfont.d671cbf6.woff",
+      "publicPath": "http://localhost:8080/fonts/materialdesignicons-webfont.d671cbf6.woff"
     },
     "index.html": {
       "name": "index.html",
@@ -110,16 +80,19 @@
       "name": "js/chunk-vendors.js",
       "path": "C:\\CEcapstone\\static\\dist\\js\\chunk-vendors.js",
       "publicPath": "http://localhost:8080/js/chunk-vendors.js"
+    },
+    "js/webfontloader.js": {
+      "name": "js/webfontloader.js",
+      "path": "C:\\CEcapstone\\static\\dist\\js\\webfontloader.js",
+      "publicPath": "http://localhost:8080/js/webfontloader.js"
     }
   },
   "chunks": {
     "app": [
       "js/chunk-vendors.js",
       "js/app.js",
-      "app.44497f65e620a9a4.hot-update.js"
+      "app.dffc96135351d1a7.hot-update.js"
     ]
   },
-  "publicPath": "http://localhost:8080/",
-  "error": "ModuleError",
-  "message": "Module Error (from ./node_modules/vue-loader/dist/index.js):\nAt least one <template> or <script> is required in a single file component."
+  "publicPath": "http://localhost:8080/"
 }
