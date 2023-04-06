@@ -1,45 +1,425 @@
 {
   "status": "done",
   "assets": {
-    "app.0a22944039724695.hot-update.js": {
-      "name": "app.0a22944039724695.hot-update.js",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.0a22944039724695.hot-update.js",
-      "publicPath": "http://localhost:8080/app.0a22944039724695.hot-update.js"
+    "app.09bd362ad95a9a5b.hot-update.js": {
+      "name": "app.09bd362ad95a9a5b.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.09bd362ad95a9a5b.hot-update.js",
+      "publicPath": "http://localhost:8080/app.09bd362ad95a9a5b.hot-update.js"
     },
-    "app.0a22944039724695.hot-update.json": {
-      "name": "app.0a22944039724695.hot-update.json",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.0a22944039724695.hot-update.json",
-      "publicPath": "http://localhost:8080/app.0a22944039724695.hot-update.json"
+    "app.09bd362ad95a9a5b.hot-update.json": {
+      "name": "app.09bd362ad95a9a5b.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.09bd362ad95a9a5b.hot-update.json",
+      "publicPath": "http://localhost:8080/app.09bd362ad95a9a5b.hot-update.json"
     },
-    "app.113681c1f2dfbd00.hot-update.js": {
-      "name": "app.113681c1f2dfbd00.hot-update.js",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.113681c1f2dfbd00.hot-update.js",
-      "publicPath": "http://localhost:8080/app.113681c1f2dfbd00.hot-update.js"
+    "app.0ea504bb2f80cebd.hot-update.js": {
+      "name": "app.0ea504bb2f80cebd.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.0ea504bb2f80cebd.hot-update.js",
+      "publicPath": "http://localhost:8080/app.0ea504bb2f80cebd.hot-update.js"
     },
-    "app.113681c1f2dfbd00.hot-update.json": {
-      "name": "app.113681c1f2dfbd00.hot-update.json",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.113681c1f2dfbd00.hot-update.json",
-      "publicPath": "http://localhost:8080/app.113681c1f2dfbd00.hot-update.json"
+    "app.0ea504bb2f80cebd.hot-update.json": {
+      "name": "app.0ea504bb2f80cebd.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.0ea504bb2f80cebd.hot-update.json",
+      "publicPath": "http://localhost:8080/app.0ea504bb2f80cebd.hot-update.json"
     },
-    "app.52bb2090429c3deb.hot-update.js": {
-      "name": "app.52bb2090429c3deb.hot-update.js",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.52bb2090429c3deb.hot-update.js",
-      "publicPath": "http://localhost:8080/app.52bb2090429c3deb.hot-update.js"
+    "app.13c1fb8fc7443fb6.hot-update.js": {
+      "name": "app.13c1fb8fc7443fb6.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.13c1fb8fc7443fb6.hot-update.js",
+      "publicPath": "http://localhost:8080/app.13c1fb8fc7443fb6.hot-update.js"
     },
-    "app.52bb2090429c3deb.hot-update.json": {
-      "name": "app.52bb2090429c3deb.hot-update.json",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.52bb2090429c3deb.hot-update.json",
-      "publicPath": "http://localhost:8080/app.52bb2090429c3deb.hot-update.json"
+    "app.13c1fb8fc7443fb6.hot-update.json": {
+      "name": "app.13c1fb8fc7443fb6.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.13c1fb8fc7443fb6.hot-update.json",
+      "publicPath": "http://localhost:8080/app.13c1fb8fc7443fb6.hot-update.json"
     },
-    "app.7e4199b08890b36c.hot-update.js": {
-      "name": "app.7e4199b08890b36c.hot-update.js",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7e4199b08890b36c.hot-update.js",
-      "publicPath": "http://localhost:8080/app.7e4199b08890b36c.hot-update.js"
+    "app.1cd3ab0d76ce2609.hot-update.js": {
+      "name": "app.1cd3ab0d76ce2609.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.1cd3ab0d76ce2609.hot-update.js",
+      "publicPath": "http://localhost:8080/app.1cd3ab0d76ce2609.hot-update.js"
     },
-    "app.7e4199b08890b36c.hot-update.json": {
-      "name": "app.7e4199b08890b36c.hot-update.json",
-      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7e4199b08890b36c.hot-update.json",
-      "publicPath": "http://localhost:8080/app.7e4199b08890b36c.hot-update.json"
+    "app.1cd3ab0d76ce2609.hot-update.json": {
+      "name": "app.1cd3ab0d76ce2609.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.1cd3ab0d76ce2609.hot-update.json",
+      "publicPath": "http://localhost:8080/app.1cd3ab0d76ce2609.hot-update.json"
+    },
+    "app.2a06985dae8c7eec.hot-update.js": {
+      "name": "app.2a06985dae8c7eec.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2a06985dae8c7eec.hot-update.js",
+      "publicPath": "http://localhost:8080/app.2a06985dae8c7eec.hot-update.js"
+    },
+    "app.2a06985dae8c7eec.hot-update.json": {
+      "name": "app.2a06985dae8c7eec.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2a06985dae8c7eec.hot-update.json",
+      "publicPath": "http://localhost:8080/app.2a06985dae8c7eec.hot-update.json"
+    },
+    "app.2b848dfdead30198.hot-update.js": {
+      "name": "app.2b848dfdead30198.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2b848dfdead30198.hot-update.js",
+      "publicPath": "http://localhost:8080/app.2b848dfdead30198.hot-update.js"
+    },
+    "app.2b848dfdead30198.hot-update.json": {
+      "name": "app.2b848dfdead30198.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2b848dfdead30198.hot-update.json",
+      "publicPath": "http://localhost:8080/app.2b848dfdead30198.hot-update.json"
+    },
+    "app.2c506fa351c87319.hot-update.js": {
+      "name": "app.2c506fa351c87319.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2c506fa351c87319.hot-update.js",
+      "publicPath": "http://localhost:8080/app.2c506fa351c87319.hot-update.js"
+    },
+    "app.2c506fa351c87319.hot-update.json": {
+      "name": "app.2c506fa351c87319.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2c506fa351c87319.hot-update.json",
+      "publicPath": "http://localhost:8080/app.2c506fa351c87319.hot-update.json"
+    },
+    "app.2d54849e604a22a6.hot-update.js": {
+      "name": "app.2d54849e604a22a6.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2d54849e604a22a6.hot-update.js",
+      "publicPath": "http://localhost:8080/app.2d54849e604a22a6.hot-update.js"
+    },
+    "app.2d54849e604a22a6.hot-update.json": {
+      "name": "app.2d54849e604a22a6.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.2d54849e604a22a6.hot-update.json",
+      "publicPath": "http://localhost:8080/app.2d54849e604a22a6.hot-update.json"
+    },
+    "app.3bd3addd78e8eab4.hot-update.js": {
+      "name": "app.3bd3addd78e8eab4.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.3bd3addd78e8eab4.hot-update.js",
+      "publicPath": "http://localhost:8080/app.3bd3addd78e8eab4.hot-update.js"
+    },
+    "app.3bd3addd78e8eab4.hot-update.json": {
+      "name": "app.3bd3addd78e8eab4.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.3bd3addd78e8eab4.hot-update.json",
+      "publicPath": "http://localhost:8080/app.3bd3addd78e8eab4.hot-update.json"
+    },
+    "app.44a07a404b215cc8.hot-update.js": {
+      "name": "app.44a07a404b215cc8.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.44a07a404b215cc8.hot-update.js",
+      "publicPath": "http://localhost:8080/app.44a07a404b215cc8.hot-update.js"
+    },
+    "app.44a07a404b215cc8.hot-update.json": {
+      "name": "app.44a07a404b215cc8.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.44a07a404b215cc8.hot-update.json",
+      "publicPath": "http://localhost:8080/app.44a07a404b215cc8.hot-update.json"
+    },
+    "app.4bd7ec2c9f676796.hot-update.js": {
+      "name": "app.4bd7ec2c9f676796.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.4bd7ec2c9f676796.hot-update.js",
+      "publicPath": "http://localhost:8080/app.4bd7ec2c9f676796.hot-update.js"
+    },
+    "app.4bd7ec2c9f676796.hot-update.json": {
+      "name": "app.4bd7ec2c9f676796.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.4bd7ec2c9f676796.hot-update.json",
+      "publicPath": "http://localhost:8080/app.4bd7ec2c9f676796.hot-update.json"
+    },
+    "app.54170e496ab56aba.hot-update.js": {
+      "name": "app.54170e496ab56aba.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.54170e496ab56aba.hot-update.js",
+      "publicPath": "http://localhost:8080/app.54170e496ab56aba.hot-update.js"
+    },
+    "app.54170e496ab56aba.hot-update.json": {
+      "name": "app.54170e496ab56aba.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.54170e496ab56aba.hot-update.json",
+      "publicPath": "http://localhost:8080/app.54170e496ab56aba.hot-update.json"
+    },
+    "app.57cd420c9c3e5c8c.hot-update.js": {
+      "name": "app.57cd420c9c3e5c8c.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.57cd420c9c3e5c8c.hot-update.js",
+      "publicPath": "http://localhost:8080/app.57cd420c9c3e5c8c.hot-update.js"
+    },
+    "app.57cd420c9c3e5c8c.hot-update.json": {
+      "name": "app.57cd420c9c3e5c8c.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.57cd420c9c3e5c8c.hot-update.json",
+      "publicPath": "http://localhost:8080/app.57cd420c9c3e5c8c.hot-update.json"
+    },
+    "app.59fca53a9a758f7d.hot-update.js": {
+      "name": "app.59fca53a9a758f7d.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.59fca53a9a758f7d.hot-update.js",
+      "publicPath": "http://localhost:8080/app.59fca53a9a758f7d.hot-update.js"
+    },
+    "app.59fca53a9a758f7d.hot-update.json": {
+      "name": "app.59fca53a9a758f7d.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.59fca53a9a758f7d.hot-update.json",
+      "publicPath": "http://localhost:8080/app.59fca53a9a758f7d.hot-update.json"
+    },
+    "app.60bb17cfab35aa77.hot-update.js": {
+      "name": "app.60bb17cfab35aa77.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.60bb17cfab35aa77.hot-update.js",
+      "publicPath": "http://localhost:8080/app.60bb17cfab35aa77.hot-update.js"
+    },
+    "app.60bb17cfab35aa77.hot-update.json": {
+      "name": "app.60bb17cfab35aa77.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.60bb17cfab35aa77.hot-update.json",
+      "publicPath": "http://localhost:8080/app.60bb17cfab35aa77.hot-update.json"
+    },
+    "app.72511e7270a970a4.hot-update.js": {
+      "name": "app.72511e7270a970a4.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.72511e7270a970a4.hot-update.js",
+      "publicPath": "http://localhost:8080/app.72511e7270a970a4.hot-update.js"
+    },
+    "app.72511e7270a970a4.hot-update.json": {
+      "name": "app.72511e7270a970a4.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.72511e7270a970a4.hot-update.json",
+      "publicPath": "http://localhost:8080/app.72511e7270a970a4.hot-update.json"
+    },
+    "app.7e01ea7ca336c1b2.hot-update.js": {
+      "name": "app.7e01ea7ca336c1b2.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7e01ea7ca336c1b2.hot-update.js",
+      "publicPath": "http://localhost:8080/app.7e01ea7ca336c1b2.hot-update.js"
+    },
+    "app.7e01ea7ca336c1b2.hot-update.json": {
+      "name": "app.7e01ea7ca336c1b2.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7e01ea7ca336c1b2.hot-update.json",
+      "publicPath": "http://localhost:8080/app.7e01ea7ca336c1b2.hot-update.json"
+    },
+    "app.7e735ef748fff482.hot-update.js": {
+      "name": "app.7e735ef748fff482.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7e735ef748fff482.hot-update.js",
+      "publicPath": "http://localhost:8080/app.7e735ef748fff482.hot-update.js"
+    },
+    "app.7e735ef748fff482.hot-update.json": {
+      "name": "app.7e735ef748fff482.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7e735ef748fff482.hot-update.json",
+      "publicPath": "http://localhost:8080/app.7e735ef748fff482.hot-update.json"
+    },
+    "app.7f456c80a4632208.hot-update.js": {
+      "name": "app.7f456c80a4632208.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7f456c80a4632208.hot-update.js",
+      "publicPath": "http://localhost:8080/app.7f456c80a4632208.hot-update.js"
+    },
+    "app.7f456c80a4632208.hot-update.json": {
+      "name": "app.7f456c80a4632208.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.7f456c80a4632208.hot-update.json",
+      "publicPath": "http://localhost:8080/app.7f456c80a4632208.hot-update.json"
+    },
+    "app.80e0e2e137506cbb.hot-update.js": {
+      "name": "app.80e0e2e137506cbb.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.80e0e2e137506cbb.hot-update.js",
+      "publicPath": "http://localhost:8080/app.80e0e2e137506cbb.hot-update.js"
+    },
+    "app.80e0e2e137506cbb.hot-update.json": {
+      "name": "app.80e0e2e137506cbb.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.80e0e2e137506cbb.hot-update.json",
+      "publicPath": "http://localhost:8080/app.80e0e2e137506cbb.hot-update.json"
+    },
+    "app.907f83a615003c3c.hot-update.js": {
+      "name": "app.907f83a615003c3c.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.907f83a615003c3c.hot-update.js",
+      "publicPath": "http://localhost:8080/app.907f83a615003c3c.hot-update.js"
+    },
+    "app.907f83a615003c3c.hot-update.json": {
+      "name": "app.907f83a615003c3c.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.907f83a615003c3c.hot-update.json",
+      "publicPath": "http://localhost:8080/app.907f83a615003c3c.hot-update.json"
+    },
+    "app.94579748977c3fce.hot-update.js": {
+      "name": "app.94579748977c3fce.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.94579748977c3fce.hot-update.js",
+      "publicPath": "http://localhost:8080/app.94579748977c3fce.hot-update.js"
+    },
+    "app.94579748977c3fce.hot-update.json": {
+      "name": "app.94579748977c3fce.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.94579748977c3fce.hot-update.json",
+      "publicPath": "http://localhost:8080/app.94579748977c3fce.hot-update.json"
+    },
+    "app.96e2b11852977da8.hot-update.js": {
+      "name": "app.96e2b11852977da8.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.96e2b11852977da8.hot-update.js",
+      "publicPath": "http://localhost:8080/app.96e2b11852977da8.hot-update.js"
+    },
+    "app.96e2b11852977da8.hot-update.json": {
+      "name": "app.96e2b11852977da8.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.96e2b11852977da8.hot-update.json",
+      "publicPath": "http://localhost:8080/app.96e2b11852977da8.hot-update.json"
+    },
+    "app.9d519502b1ac1a88.hot-update.js": {
+      "name": "app.9d519502b1ac1a88.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.9d519502b1ac1a88.hot-update.js",
+      "publicPath": "http://localhost:8080/app.9d519502b1ac1a88.hot-update.js"
+    },
+    "app.9d519502b1ac1a88.hot-update.json": {
+      "name": "app.9d519502b1ac1a88.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.9d519502b1ac1a88.hot-update.json",
+      "publicPath": "http://localhost:8080/app.9d519502b1ac1a88.hot-update.json"
+    },
+    "app.a19901349fdda7e1.hot-update.js": {
+      "name": "app.a19901349fdda7e1.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.a19901349fdda7e1.hot-update.js",
+      "publicPath": "http://localhost:8080/app.a19901349fdda7e1.hot-update.js"
+    },
+    "app.a19901349fdda7e1.hot-update.json": {
+      "name": "app.a19901349fdda7e1.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.a19901349fdda7e1.hot-update.json",
+      "publicPath": "http://localhost:8080/app.a19901349fdda7e1.hot-update.json"
+    },
+    "app.a72c4bbd7d59e1fc.hot-update.js": {
+      "name": "app.a72c4bbd7d59e1fc.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.a72c4bbd7d59e1fc.hot-update.js",
+      "publicPath": "http://localhost:8080/app.a72c4bbd7d59e1fc.hot-update.js"
+    },
+    "app.a72c4bbd7d59e1fc.hot-update.json": {
+      "name": "app.a72c4bbd7d59e1fc.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.a72c4bbd7d59e1fc.hot-update.json",
+      "publicPath": "http://localhost:8080/app.a72c4bbd7d59e1fc.hot-update.json"
+    },
+    "app.b50b508831e6c3ac.hot-update.js": {
+      "name": "app.b50b508831e6c3ac.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.b50b508831e6c3ac.hot-update.js",
+      "publicPath": "http://localhost:8080/app.b50b508831e6c3ac.hot-update.js"
+    },
+    "app.b50b508831e6c3ac.hot-update.json": {
+      "name": "app.b50b508831e6c3ac.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.b50b508831e6c3ac.hot-update.json",
+      "publicPath": "http://localhost:8080/app.b50b508831e6c3ac.hot-update.json"
+    },
+    "app.c17da6d9b54992fb.hot-update.js": {
+      "name": "app.c17da6d9b54992fb.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.c17da6d9b54992fb.hot-update.js",
+      "publicPath": "http://localhost:8080/app.c17da6d9b54992fb.hot-update.js"
+    },
+    "app.c17da6d9b54992fb.hot-update.json": {
+      "name": "app.c17da6d9b54992fb.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.c17da6d9b54992fb.hot-update.json",
+      "publicPath": "http://localhost:8080/app.c17da6d9b54992fb.hot-update.json"
+    },
+    "app.c2d0c7236c3ff9a8.hot-update.js": {
+      "name": "app.c2d0c7236c3ff9a8.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.c2d0c7236c3ff9a8.hot-update.js",
+      "publicPath": "http://localhost:8080/app.c2d0c7236c3ff9a8.hot-update.js"
+    },
+    "app.c2d0c7236c3ff9a8.hot-update.json": {
+      "name": "app.c2d0c7236c3ff9a8.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.c2d0c7236c3ff9a8.hot-update.json",
+      "publicPath": "http://localhost:8080/app.c2d0c7236c3ff9a8.hot-update.json"
+    },
+    "app.c2e487ee982d6c36.hot-update.js": {
+      "name": "app.c2e487ee982d6c36.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.c2e487ee982d6c36.hot-update.js",
+      "publicPath": "http://localhost:8080/app.c2e487ee982d6c36.hot-update.js"
+    },
+    "app.c2e487ee982d6c36.hot-update.json": {
+      "name": "app.c2e487ee982d6c36.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.c2e487ee982d6c36.hot-update.json",
+      "publicPath": "http://localhost:8080/app.c2e487ee982d6c36.hot-update.json"
+    },
+    "app.cc5706773a53d5ed.hot-update.js": {
+      "name": "app.cc5706773a53d5ed.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.cc5706773a53d5ed.hot-update.js",
+      "publicPath": "http://localhost:8080/app.cc5706773a53d5ed.hot-update.js"
+    },
+    "app.cc5706773a53d5ed.hot-update.json": {
+      "name": "app.cc5706773a53d5ed.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.cc5706773a53d5ed.hot-update.json",
+      "publicPath": "http://localhost:8080/app.cc5706773a53d5ed.hot-update.json"
+    },
+    "app.cea5cf1d5fd44c60.hot-update.js": {
+      "name": "app.cea5cf1d5fd44c60.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.cea5cf1d5fd44c60.hot-update.js",
+      "publicPath": "http://localhost:8080/app.cea5cf1d5fd44c60.hot-update.js"
+    },
+    "app.cea5cf1d5fd44c60.hot-update.json": {
+      "name": "app.cea5cf1d5fd44c60.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.cea5cf1d5fd44c60.hot-update.json",
+      "publicPath": "http://localhost:8080/app.cea5cf1d5fd44c60.hot-update.json"
+    },
+    "app.d733eeb3d8a7b505.hot-update.js": {
+      "name": "app.d733eeb3d8a7b505.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.d733eeb3d8a7b505.hot-update.js",
+      "publicPath": "http://localhost:8080/app.d733eeb3d8a7b505.hot-update.js"
+    },
+    "app.d733eeb3d8a7b505.hot-update.json": {
+      "name": "app.d733eeb3d8a7b505.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.d733eeb3d8a7b505.hot-update.json",
+      "publicPath": "http://localhost:8080/app.d733eeb3d8a7b505.hot-update.json"
+    },
+    "app.d821b567032c5d8b.hot-update.js": {
+      "name": "app.d821b567032c5d8b.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.d821b567032c5d8b.hot-update.js",
+      "publicPath": "http://localhost:8080/app.d821b567032c5d8b.hot-update.js"
+    },
+    "app.d821b567032c5d8b.hot-update.json": {
+      "name": "app.d821b567032c5d8b.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.d821b567032c5d8b.hot-update.json",
+      "publicPath": "http://localhost:8080/app.d821b567032c5d8b.hot-update.json"
+    },
+    "app.dc82951a7c11260a.hot-update.js": {
+      "name": "app.dc82951a7c11260a.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.dc82951a7c11260a.hot-update.js",
+      "publicPath": "http://localhost:8080/app.dc82951a7c11260a.hot-update.js"
+    },
+    "app.dc82951a7c11260a.hot-update.json": {
+      "name": "app.dc82951a7c11260a.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.dc82951a7c11260a.hot-update.json",
+      "publicPath": "http://localhost:8080/app.dc82951a7c11260a.hot-update.json"
+    },
+    "app.e326cd4bf000ff2f.hot-update.js": {
+      "name": "app.e326cd4bf000ff2f.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.e326cd4bf000ff2f.hot-update.js",
+      "publicPath": "http://localhost:8080/app.e326cd4bf000ff2f.hot-update.js"
+    },
+    "app.e326cd4bf000ff2f.hot-update.json": {
+      "name": "app.e326cd4bf000ff2f.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.e326cd4bf000ff2f.hot-update.json",
+      "publicPath": "http://localhost:8080/app.e326cd4bf000ff2f.hot-update.json"
+    },
+    "app.e58bfeb32b2f5ca0.hot-update.js": {
+      "name": "app.e58bfeb32b2f5ca0.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.e58bfeb32b2f5ca0.hot-update.js",
+      "publicPath": "http://localhost:8080/app.e58bfeb32b2f5ca0.hot-update.js"
+    },
+    "app.e58bfeb32b2f5ca0.hot-update.json": {
+      "name": "app.e58bfeb32b2f5ca0.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.e58bfeb32b2f5ca0.hot-update.json",
+      "publicPath": "http://localhost:8080/app.e58bfeb32b2f5ca0.hot-update.json"
+    },
+    "app.ec8c63c785daa3e8.hot-update.js": {
+      "name": "app.ec8c63c785daa3e8.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.ec8c63c785daa3e8.hot-update.js",
+      "publicPath": "http://localhost:8080/app.ec8c63c785daa3e8.hot-update.js"
+    },
+    "app.ec8c63c785daa3e8.hot-update.json": {
+      "name": "app.ec8c63c785daa3e8.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.ec8c63c785daa3e8.hot-update.json",
+      "publicPath": "http://localhost:8080/app.ec8c63c785daa3e8.hot-update.json"
+    },
+    "app.ee22b64e308cec53.hot-update.js": {
+      "name": "app.ee22b64e308cec53.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.ee22b64e308cec53.hot-update.js",
+      "publicPath": "http://localhost:8080/app.ee22b64e308cec53.hot-update.js"
+    },
+    "app.ee22b64e308cec53.hot-update.json": {
+      "name": "app.ee22b64e308cec53.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.ee22b64e308cec53.hot-update.json",
+      "publicPath": "http://localhost:8080/app.ee22b64e308cec53.hot-update.json"
+    },
+    "app.f31b20b82d07dd70.hot-update.js": {
+      "name": "app.f31b20b82d07dd70.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.f31b20b82d07dd70.hot-update.js",
+      "publicPath": "http://localhost:8080/app.f31b20b82d07dd70.hot-update.js"
+    },
+    "app.f31b20b82d07dd70.hot-update.json": {
+      "name": "app.f31b20b82d07dd70.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.f31b20b82d07dd70.hot-update.json",
+      "publicPath": "http://localhost:8080/app.f31b20b82d07dd70.hot-update.json"
+    },
+    "app.fa2f6255233016cb.hot-update.js": {
+      "name": "app.fa2f6255233016cb.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.fa2f6255233016cb.hot-update.js",
+      "publicPath": "http://localhost:8080/app.fa2f6255233016cb.hot-update.js"
+    },
+    "app.fa2f6255233016cb.hot-update.json": {
+      "name": "app.fa2f6255233016cb.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.fa2f6255233016cb.hot-update.json",
+      "publicPath": "http://localhost:8080/app.fa2f6255233016cb.hot-update.json"
+    },
+    "app.fb76726f0cb8f851.hot-update.js": {
+      "name": "app.fb76726f0cb8f851.hot-update.js",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.fb76726f0cb8f851.hot-update.js",
+      "publicPath": "http://localhost:8080/app.fb76726f0cb8f851.hot-update.js"
+    },
+    "app.fb76726f0cb8f851.hot-update.json": {
+      "name": "app.fb76726f0cb8f851.hot-update.json",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\app.fb76726f0cb8f851.hot-update.json",
+      "publicPath": "http://localhost:8080/app.fb76726f0cb8f851.hot-update.json"
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -66,6 +446,126 @@
       "path": "C:\\codeshare\\codeshare\\static\\dist\\fonts\\materialdesignicons-webfont.d671cbf6.woff",
       "publicPath": "http://localhost:8080/fonts/materialdesignicons-webfont.d671cbf6.woff"
     },
+    "Fonts/Montserrat-Italic-VariableFont_wght.ttf": {
+      "name": "Fonts/Montserrat-Italic-VariableFont_wght.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\Montserrat-Italic-VariableFont_wght.ttf",
+      "publicPath": "http://localhost:8080/Fonts/Montserrat-Italic-VariableFont_wght.ttf"
+    },
+    "Fonts/Montserrat-VariableFont_wght.ttf": {
+      "name": "Fonts/Montserrat-VariableFont_wght.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\Montserrat-VariableFont_wght.ttf",
+      "publicPath": "http://localhost:8080/Fonts/Montserrat-VariableFont_wght.ttf"
+    },
+    "Fonts/OFL.txt": {
+      "name": "Fonts/OFL.txt",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\OFL.txt",
+      "publicPath": "http://localhost:8080/Fonts/OFL.txt"
+    },
+    "Fonts/README.txt": {
+      "name": "Fonts/README.txt",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\README.txt",
+      "publicPath": "http://localhost:8080/Fonts/README.txt"
+    },
+    "Fonts/static/Montserrat-Black.ttf": {
+      "name": "Fonts/static/Montserrat-Black.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Black.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Black.ttf"
+    },
+    "Fonts/static/Montserrat-BlackItalic.ttf": {
+      "name": "Fonts/static/Montserrat-BlackItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-BlackItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-BlackItalic.ttf"
+    },
+    "Fonts/static/Montserrat-Bold.ttf": {
+      "name": "Fonts/static/Montserrat-Bold.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Bold.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Bold.ttf"
+    },
+    "Fonts/static/Montserrat-BoldItalic.ttf": {
+      "name": "Fonts/static/Montserrat-BoldItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-BoldItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-BoldItalic.ttf"
+    },
+    "Fonts/static/Montserrat-ExtraBold.ttf": {
+      "name": "Fonts/static/Montserrat-ExtraBold.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-ExtraBold.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-ExtraBold.ttf"
+    },
+    "Fonts/static/Montserrat-ExtraBoldItalic.ttf": {
+      "name": "Fonts/static/Montserrat-ExtraBoldItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-ExtraBoldItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-ExtraBoldItalic.ttf"
+    },
+    "Fonts/static/Montserrat-ExtraLight.ttf": {
+      "name": "Fonts/static/Montserrat-ExtraLight.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-ExtraLight.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-ExtraLight.ttf"
+    },
+    "Fonts/static/Montserrat-ExtraLightItalic.ttf": {
+      "name": "Fonts/static/Montserrat-ExtraLightItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-ExtraLightItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-ExtraLightItalic.ttf"
+    },
+    "Fonts/static/Montserrat-Italic.ttf": {
+      "name": "Fonts/static/Montserrat-Italic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Italic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Italic.ttf"
+    },
+    "Fonts/static/Montserrat-Light.ttf": {
+      "name": "Fonts/static/Montserrat-Light.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Light.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Light.ttf"
+    },
+    "Fonts/static/Montserrat-LightItalic.ttf": {
+      "name": "Fonts/static/Montserrat-LightItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-LightItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-LightItalic.ttf"
+    },
+    "Fonts/static/Montserrat-Medium.ttf": {
+      "name": "Fonts/static/Montserrat-Medium.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Medium.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Medium.ttf"
+    },
+    "Fonts/static/Montserrat-MediumItalic.ttf": {
+      "name": "Fonts/static/Montserrat-MediumItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-MediumItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-MediumItalic.ttf"
+    },
+    "Fonts/static/Montserrat-Regular.ttf": {
+      "name": "Fonts/static/Montserrat-Regular.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Regular.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Regular.ttf"
+    },
+    "Fonts/static/Montserrat-SemiBold.ttf": {
+      "name": "Fonts/static/Montserrat-SemiBold.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-SemiBold.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-SemiBold.ttf"
+    },
+    "Fonts/static/Montserrat-SemiBoldItalic.ttf": {
+      "name": "Fonts/static/Montserrat-SemiBoldItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-SemiBoldItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-SemiBoldItalic.ttf"
+    },
+    "Fonts/static/Montserrat-Thin.ttf": {
+      "name": "Fonts/static/Montserrat-Thin.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-Thin.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-Thin.ttf"
+    },
+    "Fonts/static/Montserrat-ThinItalic.ttf": {
+      "name": "Fonts/static/Montserrat-ThinItalic.ttf",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\Fonts\\static\\Montserrat-ThinItalic.ttf",
+      "publicPath": "http://localhost:8080/Fonts/static/Montserrat-ThinItalic.ttf"
+    },
+    "img/mokpo.9f0f9571.jpg": {
+      "name": "img/mokpo.9f0f9571.jpg",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\img\\mokpo.9f0f9571.jpg",
+      "publicPath": "http://localhost:8080/img/mokpo.9f0f9571.jpg"
+    },
+    "img/mokpo2.334136e5.jpg": {
+      "name": "img/mokpo2.334136e5.jpg",
+      "path": "C:\\codeshare\\codeshare\\static\\dist\\img\\mokpo2.334136e5.jpg",
+      "publicPath": "http://localhost:8080/img/mokpo2.334136e5.jpg"
+    },
     "index.html": {
       "name": "index.html",
       "path": "C:\\codeshare\\codeshare\\static\\dist\\index.html",
@@ -91,10 +591,10 @@
     "app": [
       "js/chunk-vendors.js",
       "js/app.js",
-      "app.52bb2090429c3deb.hot-update.js"
+      "app.54170e496ab56aba.hot-update.js"
     ]
   },
   "publicPath": "http://localhost:8080/",
-  "error": "ESLintError",
-  "message": "[eslint] \nC:\\codeshare\\codeshare\\CEcapstone\\src\\App.vue\n   96:8  error  'Headerbtn' is defined but never used  no-unused-vars\n  110:5  error  'headerbtn' is not defined             no-undef\n\n✖ 2 problems (2 errors, 0 warnings)\n"
+  "error": "ModuleBuildError",
+  "message": "Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\codeshare\\codeshare\\CEcapstone\\src\\components\\Headerbtn.vue: Identifier 'Loginli' has already been declared. (3:7)\n\n  1 |\n  2 | import Loginli from './loginli.vue';\n> 3 | import Loginli from './loginli.vue';\n    |        ^\n  4 |\n  5 | export default {\n  6 |   data() {\n    at instantiate (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:653:32)\n    at constructor (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:947:12)\n    at JSXParserMixin.raise (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:3261:19)\n    at ScopeHandler.checkRedeclarationInScope (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:1557:19)\n    at ScopeHandler.declareName (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:1528:12)\n    at JSXParserMixin.declareNameFromIdentifier (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:7535:16)\n    at JSXParserMixin.checkIdentifier (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:7531:12)\n    at JSXParserMixin.checkLVal (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:7470:12)\n    at JSXParserMixin.finishImportSpecifier (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:14073:10)\n    at JSXParserMixin.parseImportSpecifierLocal (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:14070:31)\n    at JSXParserMixin.maybeParseDefaultImportSpecifier (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:14165:12)\n    at JSXParserMixin.parseImport (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:14040:31)\n    at JSXParserMixin.parseStatementContent (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:12651:27)\n    at JSXParserMixin.parseStatementLike (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:12544:17)\n    at JSXParserMixin.parseModuleItem (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:12521:17)\n    at JSXParserMixin.parseBlockOrModuleBlockBody (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:13116:36)\n    at JSXParserMixin.parseBlockBody (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:13109:10)\n    at JSXParserMixin.parseProgram (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:12435:10)\n    at JSXParserMixin.parseTopLevel (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:12425:25)\n    at JSXParserMixin.parse (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:14245:10)\n    at parse (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\parser\\lib\\index.js:14265:26)\n    at parser (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\core\\lib\\parser\\index.js:41:34)\n    at parser.next (<anonymous>)\n    at normalizeFile (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\core\\lib\\transformation\\normalize-file.js:64:38)\n    at normalizeFile.next (<anonymous>)\n    at run (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\core\\lib\\transformation\\index.js:21:50)\n    at run.next (<anonymous>)\n    at transform (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\@babel\\core\\lib\\transform.js:22:41)\n    at transform.next (<anonymous>)\n    at step (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\gensync\\index.js:261:32)\n    at C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\gensync\\index.js:273:13\n    at async.call.result.err.err (C:\\codeshare\\codeshare\\CEcapstone\\node_modules\\gensync\\index.js:223:11)"
 }
